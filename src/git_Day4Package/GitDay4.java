@@ -12,7 +12,7 @@ public class GitDay4 {
 		System.out.println("Someone else contributed to the code");
 		//merhaba
 		// from ogr-1
-	
+	    // from ogr-2
 	}
 
 }
